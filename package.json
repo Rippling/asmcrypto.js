@@ -4,7 +4,6 @@
   "description": "Asm.js implementation of WebCrypto API",
   "homepage": "https://github.com/asmcrypto/asmcrypto.js",
   "main": "asmcrypto.all.js",
-  "module": "asmcrypto.all.es8.js",
   "license": "MIT",
   "author": {
     "name": "Ádám Lippai",
